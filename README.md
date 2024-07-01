@@ -2,8 +2,6 @@
 
 ![Project Image](https://github.com/tushagg/sorting-visualizer/blob/master/image/gif.gif)
 
-> [Live demo](https://tushagg.github.io/sorting-visualizer/)
-
 ---
 
 ## Description
